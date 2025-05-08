@@ -1,0 +1,22 @@
+a{
+    font-family: Poppins;
+  font-weight: 200;
+  font-size: 20px;
+  color: #333333;
+  border : 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+/* .resume_link{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.resume_link{
+  position: absolute;
+  top: 4%;
+  right: 1.5%;
+}
