@@ -44,7 +44,7 @@ h1 {
   height: 100%;
   background-image: radial-gradient(black 10px, transparent 11px);
   background-size: 100px 100px;
-  animation: float 20s linear infinite;
+  animation: float 10s linear infinite;
   opacity: 0.1;
 }
 
